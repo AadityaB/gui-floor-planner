@@ -52,6 +52,12 @@ A desktop application for designing and editing 2D architectural floor plans. Us
    javac -d bin src/**/*.java
    java -cp bin Main
 
+📄 License
+
+This repository is intended for academic demonstration purposes only.
+
+
+> created by Aaditya Bhagat, Aadi Deshmukh
 
    
 
